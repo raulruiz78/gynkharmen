@@ -4,10 +4,13 @@ export default function FinalPage() {
   return (
     <main>
       <section className="card">
-        <h2>¡Enhorabuena! 🎉</h2>
-        <p>Has completado la gymkhana.</p>
+        <h2>¡Feliz cumpleaños, Carmen! 🎉</h2>
+        <p>
+          Has completado todo el paseo por Valladolid y encontrado la sorpresa final. Gracias por
+          compartir esta aventura tan bonita.
+        </p>
         <Link href="/" className="button space-top">
-          Jugar de nuevo
+          Repetir gymkana
         </Link>
       </section>
     </main>
