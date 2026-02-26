@@ -10,7 +10,7 @@ export default function FinalPage() {
         </p>
 
         <iframe
-          title="Mapa de Calle García Valladolid 3"
+          title="🎁"
           src="https://www.google.com/maps?q=Calle+Garc%C3%ADa+Valladolid+3&output=embed"
           width="100%"
           height="260"
