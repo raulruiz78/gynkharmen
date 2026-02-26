@@ -80,7 +80,7 @@ export default function CluePage() {
           </button>
         </form>
         {error ? <p className="error">{error}</p> : null}
-        <p className="small">Tip: puedes escribir con o sin acentos.</p>
+        <p className="small">Tip: Todas las pistas son números.</p>
       </section>
     </main>
   );
