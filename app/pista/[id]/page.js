@@ -67,7 +67,6 @@ export default function CluePage() {
         </h2>
         <p>{clue.clue}</p>
         <form onSubmit={handleSubmit}>
-          <label htmlFor="answer">Tu respuesta</label>
           <input
             id="answer"
             autoComplete="off"
