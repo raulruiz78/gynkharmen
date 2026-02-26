@@ -44,14 +44,14 @@ export default function CluePage() {
     event.preventDefault();
 
     if (normalize(inputValue) !== normalize(clue.answer)) {
-      setError('Respuesta incorrecta. ¡Prueba otra vez!');
+      setError('Ups 💫 esa no era. Respira y prueba otra vez.');
       return;
     }
 
     setError('');
 
     if (isLast) {
-      router.push('/final');
+      router.push('/sorpresa');
       return;
     }
 
@@ -60,8 +60,11 @@ export default function CluePage() {
 
   return (
     <main>
-      <section className="card">
-        <h2>Pista {clue.id}</h2>
+      <section className={`card card-accent ${clue.accent}`}>
+        <p className="step">{clue.title}</p>
+        <h2>
+          {clue.emoji} Pista {clue.id}
+        </h2>
         <p>{clue.clue}</p>
         <form onSubmit={handleSubmit}>
           <label htmlFor="answer">Tu respuesta</label>
@@ -73,10 +76,11 @@ export default function CluePage() {
             placeholder="Escribe aquí"
           />
           <button className="button" type="submit">
-            Comprobar
+            Comprobar ✨
           </button>
         </form>
         {error ? <p className="error">{error}</p> : null}
+        <p className="small">Tip: puedes escribir con o sin acentos.</p>
       </section>
     </main>
   );
