@@ -74,9 +74,9 @@ export const clues = [
   {
     id: 10,
     emoji: '👼',
-    title: 'Décima parada (nueva pista)',
+    title: 'Décima parada',
     answer: 'Carla',
-    clue: 'Si has llegado hasta aquí sin perder el rumbo,\nesta es la casa de tu ángel rubio… y el final del mundo.',
+    clue: 'Entre maullidos y saltos de algodón,\neste ángel rubio protege tu corazón.',
     accent: 'berry'
   }
 ];
