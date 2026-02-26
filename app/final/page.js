@@ -19,7 +19,7 @@ export default function FinalPage() {
           referrerPolicy="no-referrer-when-downgrade"
         />
 
-        <p className="small">¡Feliz cumpleaños, te quiero 💘</p>
+        <p className="small">Feliz cumpleaños, te quiero 💘</p>
       </section>
     </main>
   );
