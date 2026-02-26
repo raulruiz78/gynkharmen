@@ -17,7 +17,7 @@ export const clues = [
   {
     id: 4,
     answer: '2026',
-    clue: 'Restaurante donde no se equivoco en la fecha de reserva'
+    clue: 'Con una reserva mal realizada,\nuna mesa alta os esperaba.'
   },
   {
     id: 5,
