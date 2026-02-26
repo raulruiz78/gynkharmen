@@ -11,7 +11,7 @@ export default function FinalPage() {
 
         <iframe
           title="🎁"
-          src="https://www.google.com/maps?q=Calle+Garc%C3%ADa+Valladolid+3&output=embed"
+          src="https://www.google.com/maps?q=C.%20Garc%C3%ADa%20Valladolid%2C%203%2C%2047004%20Valladolid&output=embed"
           width="100%"
           height="260"
           style={{ border: 0, borderRadius: '14px', marginTop: '8px' }}
@@ -19,10 +19,7 @@ export default function FinalPage() {
           referrerPolicy="no-referrer-when-downgrade"
         />
 
-        <p className="small">¡Feliz cumpleaños! 🎉</p>
-        <Link href="/" className="button space-top">
-          Repetir gymkana 🔁
-        </Link>
+        <p className="small">¡Feliz cumpleaños, te quiero 💘</p>
       </section>
     </main>
   );
