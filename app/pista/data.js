@@ -3,80 +3,80 @@ export const clues = [
     id: 1,
     emoji: '💪',
     title: 'Primera parada',
-    clue: 'Gym donde entrenamos',
-    answer: 'gym donde entrenamos',
+    answer: '902222224',
+    clue: 'Si ese culo quieres duro y bien colocado,\naquí se suda fuerte para dejarlo bien trabajado.',
     accent: 'sunrise'
   },
   {
     id: 2,
     emoji: '🥓',
     title: 'Segunda parada',
-    clue: 'Donde Raúl se compra sus meriendas ibéricas',
-    answer: 'donde raul se compra sus meriendas ibericas',
+    answer: '390',
+    clue: 'Cuando el hambre aprieta y no es cualquier antojo,\naquí cae el bocadillo de jamón del bueno, rojo y sabroso.',
     accent: 'berry'
   },
   {
     id: 3,
     emoji: '🥄',
     title: 'Tercera parada',
-    clue: 'Donde se hizo la adquisición de la cuchara de oro',
-    answer: 'donde se hizo la adquisicion de la cuchara de oro',
+    answer: '2016',
+    clue: 'No fue joya ni anillo valioso,\npero aquí nació la famosa cuchara de oro.',
     accent: 'mint'
   },
   {
     id: 4,
-    emoji: '🛍️',
+    emoji: '🍽️',
     title: 'Cuarta parada',
-    clue: 'Zara, su parque de atracciones favorito',
-    answer: 'zara',
+    answer: '2026',
+    clue: 'Con una reserva mal realizada,\nuna mesa alta os esperaba.',
     accent: 'violet'
   },
   {
     id: 5,
-    emoji: '🍽️',
+    emoji: '🛍️',
     title: 'Quinta parada',
-    clue: 'Nuestra primera cena romántica',
-    answer: 'nuestra primera cena romantica',
+    answer: '8',
+    clue: 'Si entrar te hace feliz sin explicación,\neste es tu parque favorito… tentación tras tentación.',
     accent: 'sunrise'
   },
   {
     id: 6,
-    emoji: '☕',
+    emoji: '🍣',
     title: 'Sexta parada',
-    clue: 'Su cafetería favorita del mundo',
-    answer: 'su cafeteria favorita del mundo',
+    answer: '2016',
+    clue: 'Entre makis, nigiris y miradas sin prisa,\naquí fue nuestra primera cena de sushi… y empezó la sonrisa.',
     accent: 'mint'
   },
   {
     id: 7,
-    emoji: '🐿️',
+    emoji: '☕',
     title: 'Séptima parada',
-    clue: 'Dar de comer a las ardillas',
-    answer: 'dar de comer a las ardillas',
+    answer: '360',
+    clue: 'Si café y calma quieres encontrar,\neste es tu rincón favorito para el mundo pausar.',
     accent: 'berry'
   },
   {
     id: 8,
-    emoji: '🚆',
+    emoji: '🐿️',
     title: 'Octava parada',
-    clue: 'Estación de tren para ver al churri',
-    answer: 'estacion de tren para ver al churri',
+    answer: '1997',
+    clue: 'Entre árboles, colas y carreras sencillas,\naquí repartimos comida a las ardillas.',
     accent: 'violet'
   },
   {
     id: 9,
-    emoji: '👼',
+    emoji: '🚆',
     title: 'Novena parada',
-    clue: 'Casa de su ángel de la guarda rubio',
-    answer: 'casa de su angel de la guarda rubio',
+    answer: '21582114180',
+    clue: 'Abrazos, nervios y beso en el andén,\naquí se espera el tren para ver al churri también.',
     accent: 'sunrise'
   },
   {
     id: 10,
-    emoji: '🎁',
+    emoji: '👼',
     title: 'Décima parada (nueva pista)',
-    clue: 'Busca donde siempre guardamos las sorpresas antes de abrirlas',
-    answer: 'rincon de sorpresas',
+    answer: 'Carla',
+    clue: 'Si has llegado hasta aquí sin perder el rumbo,\nesta es la casa de tu ángel rubio… y el final del mundo.',
     accent: 'berry'
   }
 ];

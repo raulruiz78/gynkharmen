@@ -12,20 +12,6 @@ export default function HomePage() {
           del camino y de cada parada.
         </p>
 
-        <h2>🗺️ Itinerario</h2>
-        <ol>
-          <li>Gym donde entrenamos.</li>
-          <li>Donde Raúl se compra sus meriendas ibéricas.</li>
-          <li>Donde se hizo la adquisición de la cuchara de oro.</li>
-          <li>Zara, su parque de atracciones favorito.</li>
-          <li>Nuestra primera cena romántica.</li>
-          <li>Su cafetería favorita del mundo.</li>
-          <li>Dar de comer a las ardillas.</li>
-          <li>Estación de tren para ver al churri.</li>
-          <li>Casa de su ángel de la guarda rubio.</li>
-          <li>Nueva pista sorpresa 🎁.</li>
-        </ol>
-
         <p className="small">Cuando estés lista, pulsa para empezar el paseo.</p>
         <Link className="button" href="/pista/1">
           Empezar paseo ✨
