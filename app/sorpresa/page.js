@@ -6,8 +6,7 @@ export default function SurprisePage() {
       <section className="card card-accent sunrise">
         <h2>🎉 ¡Último paso desbloqueado!</h2>
         <p>
-          Carmen, has resuelto todas las pistas del paseo. Ahora toca abrir el capítulo final y
-          descubrir tu sorpresa.
+          Carmen, has resuelto todas las pistas del paseo. Ahora toca abrir el capítulo final e ir donde está tu sorpresa.
         </p>
         <Link href="/final" className="button space-top">
           Ver sorpresa final 🎁
